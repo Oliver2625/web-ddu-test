@@ -30,7 +30,7 @@ export function HeaderMenu() {
           <Menu.Target>
             <a
               href={link.link}
-              className='hover:bg-neutral-600 hover:bg-opacity-25 px-3 py-[0.1rem] rounded'
+              className='hover:bg-neutral-600 hover:bg-opacity-25 px-3 py-[0.1rem] rounded text-base font-semibold'
               onClick={(event) => event.preventDefault()}
             >
               <Center className='gap-2'>
@@ -48,7 +48,7 @@ export function HeaderMenu() {
       <a
         key={link.label}
         href={link.link}
-        className='hover:bg-neutral-600 hover:bg-opacity-25 text-center px-3 py-[0.1rem] rounded'
+        className='hover:bg-neutral-600 hover:bg-opacity-25 text-center px-3 py-[0.1rem] rounded text-base font-semibold'
         onClick={(event) => event.preventDefault()}
       >
         {link.label}
