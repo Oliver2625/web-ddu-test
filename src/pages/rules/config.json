@@ -1,0 +1,245 @@
+{
+    "serverRules": [
+      {
+        "category": "Retningslinjer",
+        "rules": [
+          {
+            "number": "1.1",
+            "content": "Resident forbeholder sig retten til løbende at opdatere reglerne. Det er spillerens eget ansvar at holde sig opdateret."
+          },
+          {
+            "number": "1.2",
+            "content": "Adfærd der skaber en negativ stemning eller stødende adfærd i fællesskabet, kan medføre til udelukkelse."
+          },
+          {
+            "number": "1.3",
+            "content": "Det er et krav at have en fungerende mikrofon. Urealistiske voice changers er ikke lovlige."
+          },
+          {
+            "number": "1.4",
+            "content": "Brug af tredjepartsprogrammer eller ændringer, som giver uretfærdig fordel er ikke toleret."
+          },
+          {
+            "number": "1.5",
+            "content": "Udnyttelse af spilmekanikker (bugs osv.), er ikke toleret på Resident."
+          },
+          {
+            "number": "1.6",
+            "content": "Resident Ledelsen forbeholder sig retten til at udelukke spilleren uanset omstændighederne."
+          },
+          {
+            "number": "1.7",
+            "content": "CitizenFX ToS skal overholdes."
+          },
+          {
+            "number": "1.8",
+            "content": "Ingen bandekrig uden godkendelse af admins."
+          },
+          {
+            "number": "1.9",
+            "content": "Maksimalt 5 personer i en bandehandling."
+          },
+          {
+            "number": "1.10",
+            "content": " Brug af soundboard er tilladt, hvis omstændighederne tillader det. Dvs. du skal ikke stå i midtby og spille random lyde. Lydende skal være til fordel for RPen"
+          }
+        ]
+      },
+      {
+        "category": "Generelle regler",
+        "rules": [
+          {
+            "number": "2.1",
+            "content": "Inde på serveren skal du altid forblive i karakter. OOC Hentydninger er heller ikke tilladte. Staff vil aldrig bryde RP."
+          },
+          {
+            "number": "2.2",
+            "content": "Det er ikke tilladt at dræbe en anden spiller uden forudgående RP."
+          },
+          {
+            "number": "2.3",
+            "content": "RP på Resident forventes at være realistisk."
+          },
+          {
+            "number": "2.4",
+            "content": "PowerGaming er ikke tilladt på Resident fx. tale som død."
+          },
+          {
+            "number": "2.5",
+            "content": "Common Sense skal altid tages i brug. Fx. går du ikke ind på en Politistation eller Hospital, for at slå folk ned."
+          },
+          {
+            "number": "2.6",
+            "content": "Det er et krav at man værdsætter andres og sit eget liv, ikke gå og tro du er udødelig, bare fordi det er et spil. Overtrædelse af NLR kan medføre til CK."
+          },
+          {
+            "number": "2.7",
+            "content": "New Life Rule bruges på Resident, hvis du dør og respawner, så glemmer du alt opledende til din død."
+          },
+          {
+            "number": "2.8",
+            "content": "VDM / Køretøj som våben er ikke tilladt på Resident."
+          },
+          {
+            "number": "2.9",
+            "content": "Det er ikke tilladt at udlevere job-specifikke genstande (EMS/Politi). Det er heller ikke tilladt at tage ting fra Bevis-kammeret til fordel for dig eller andre."
+          },
+          {
+            "number": "2.10",
+            "content": "Det er ikke tilladt at misbruge whitelistede jobs til egen fordel."
+          },
+          {
+            "number": "2.11",
+            "content": "Røverier er tilladt på Resident, men der skal være opledende RP. Dog må ingen tvinges til at hæve deres værdier eller penge."
+          },
+          {
+            "number": "2.12",
+            "content": "Det er ikke tilladt at røve EMS."
+          },
+          {
+            "number": "2.13",
+            "content": "Det er ikke tilladt at stjæle våben, ammunition eller veste fra Politiet."
+          },
+          {
+            "number": "2.14",
+            "content": "Der må max være 8 medlemmer til røveri af 'National Banken' i Vinewood. Max 6 medlemmer for alle andre røverier såsom andre banker, juvel osv."
+          },
+          {
+            "number": "2.15",
+            "content": "Forhandlinger i gidseltagninger & røverier er forventet fra begge parter. Forhandlinger må kun afbrydes med særlig grund."
+          },
+          {
+            "number": "2.16",
+            "content": "Combatlog er ikke tilladt på Resident."
+          },
+          {
+            "number": "2.17",
+            "content": "Det er tilladt at farme på Resident imens du ser film, youtube osv., dog er det et krav at du kan reagere hvis nogen snakker / RP'er med dig. (Skal du AFK så gå lidt væk fra stedet)"
+          },
+          {
+            "number": "2.18",
+            "content": "Det er ikke tilladt at udelade at betale regninger fra firmaer."
+          },
+          {
+            "number": "2.19",
+            "content": "Bliver du jagtet af Politiet, så må du ikke gemme dig inde i huse, det skal være udenfor huse."
+          },
+          {
+            "number": "2.20",
+            "content": "Når du laver arbejde, så skal du have arbejdstøj der matcher til dit arbejde på. Fx. ser du ikke en miner i et jakkesæt."
+          },
+          {
+            "number": "2.21",
+            "content": "Politiets tilgang til kriminalitet - Politiet skal følge realistiske love og ikke bare visitere folk 'Fordi der er opkald i området'."
+          },
+          {
+            "number": "2.22",
+            "content": "Offentlige markedspladser bruges ikke til salg af ulovlige items, brug darkchat til dette."
+          },
+          {
+            "number": "2.23",
+            "content": "Svindel er ikke tilladt på Resident i eller ude af RP."
+          }
+        ]
+      },
+      {
+        "category": "Bande regler",
+        "rules": [
+          {
+            "number": "3.1",
+            "content": "Bliver man banned i 30 dage eller længere, vil man miste ejerskab over sin bande. Hvis dette sker vil bande-ansvarlige beslutte om banden lukkes ned, eller om næst-rangerende overtager."
+          },
+          {
+            "number": "3.2",
+            "content": "Der må være op i mod 20 medlemmer i banden."
+          },
+          {
+            "number": "3.3",
+            "content": "Inddragelse af Pushere i Banden - Det er tilladt for banden at bruge pushere til fx., lokkemad, spottere eller lignende for at øge RP'et mellem bander & pushere. De må ikke deltage i krige, røverier osv."
+          },
+          {
+            "number": "3.4",
+            "content": "Det er tilladt for bander at indgå i alliancer med andre grupperinger eller bander."
+          },
+          {
+            "number": "3.4.1",
+            "content": "Alliancer foregår således, at man har et fælles formål om noget på sigt, og at man sammen kan indgå i dialoger og samarbejde for at opnå disse mål."
+          },
+          {
+            "number": "3.4.2",
+            "content": "Man skal bryde alliancen, før man kan gå i krig mod en bande man alliancere sig med. Alliancerede bander må gerne bruge hinandens zoner, hvis omstændighederne tillader det."
+          },
+          {
+            "number": "3.4.3",
+            "content": "Allierede bander må kun samarbejde om det forudaftalte fælles-mål."
+          },
+          {
+            "number": "3.5",
+            "content": "Bande Exits - Forlader du en bande, så har banden/grupperingen fuld ret til, at CK din karakter så længe situationen foregår i RP."
+          },
+          {
+            "number": "3.6",
+            "content": "Bande CK - Banderne kan søge på CK på din karakter, hvis du skylder dem penge uden du gør et réelt forsøg på at betale tilbage. Det samme gælder gentagende fuckups. (Dette skal dog være beskrevet i bandens Code of Conduct)"
+          },
+          {
+            "number": "3.7",
+            "content": "Bandens Territorier - Det er tilladt at rushe bandegrunde, med konsekvensen for at man bliver CK'et, hvis man dør imens man gør det. Dette vurderes af CK-ansvarlige."
+          },
+          {
+            "number": "3.8",
+            "content": "Ejendomme og Virksomheder - Ved overtagelse, køb eller andet af ejendomme & firmaer, skal dette foregå på samme måde som en almindelig borger. (Henviser til Firma-reglerne.)"
+          },
+          {
+            "number": "3.9",
+            "content": "Krigsregler aftales internt med Bande-Ansvarlige i supporten før krigen går igang. (Krigen skal dog annonceres ingame, for at undgå meta.)"
+          },
+          {
+            "number": "3.9.1",
+            "content": "Krigregler - Bandekriger foregår ingame, alt OOC had, tilsvininger & upassende adfærd ude af spillet tolereres IKKE."
+          },
+          {
+            "number": "3.10",
+            "content": "Bandestrikes - Vi har indført et 3-strikes system, ved fjerde strike lukkes banden. Vi forbeholder os retten til at lukke banden uanset strikes."
+          }
+        ]
+      },
+      {
+        "category": "Firma Regler",
+        "rules": [
+          {
+            "number": "4.1",
+            "content": "Ved udelukkelser på over 14 dage risikere man at miste sit firma. Samme gælder for inaktivitet i over 14 dage."
+          },
+          {
+            "number": "4.2",
+            "content": "Salg, ejerskifte, bonussystemer osv., skal godkendes af Firma Ansvarlige på forhånd."
+          },
+          {
+            "number": "4.3",
+            "content": "Firmaer må ikke anvendes til ulovlige formål."
+          },
+          {
+            "number": "4.4",
+            "content": "Ejer en bande eller et bandemedlem et firma, må han ikke forskelsbehandle sine egne medlemmer eller andre kriminelle."
+          },
+          {
+            "number": "4.5",
+            "content": "Det forventes at det er din main-karakter som ejer firmaet."
+          },
+          {
+            "number": "4.6",
+            "content": "Det er dit ansvar at rapportere firmaets åbningstider på firma-discorden. Kun dokumenterede åbningstider tæller, hvis firmaet risikere at lukke grund af inaktivitet."
+          },
+          {
+            "number": "4.7",
+            "content": "Hvis du er med i en bande, kan du kun eje en virksomhed, hvis du deler ejerskabet med en person uden bandeRP-tilknytning."
+          },
+          {
+            "number": "4.8",
+            "content": "Link til MLO og script skal sendes som en ticket og godkendes af vores udviklere. Indkøb af MLO og scripts er dit eget ansvar og din egen pengepung. Vi accepterer aldrig 'leaked' filer og anbefaler at du venter med at indkøbe til du har fået godkendelse fra firma ansvarlige samt vores dev team."
+          }
+        ]
+      }
+    ]
+  }
+  

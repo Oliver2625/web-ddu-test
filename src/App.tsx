@@ -3,14 +3,22 @@ import {MantineProvider, ActionIcon, useMantineColorScheme} from '@mantine/core'
 import { HeaderMenu } from './components/Header/HeaderMenu';
 import { IconSun, IconMoon } from '@tabler/icons-react';
 import HeroPlayerStats from './components/Hero/HeroPlayerStats';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/home/home';
+import RulesPage from './pages/rules/rules';
 
 function App() {
 
   return (
     <MantineProvider>
       <SwitchMode />
+      <Router>
       <HeaderMenu />
-      <HeroPlayerStats />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/rules" element={<RulesPage />} />
+      </Routes>
+    </Router>
     </MantineProvider>
   )
 }
