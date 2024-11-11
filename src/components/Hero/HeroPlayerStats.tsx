@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Badge } from '@mantine/core';
+import Logo from '/logo.png';
 
 export default function HeroPlayerStats() {
     const Images = ['/hero2.png', '/image.png', '/image2.png', '/nightgta.png']
@@ -40,7 +41,7 @@ export default function HeroPlayerStats() {
   return (
     <div className='flex justify-center w-full h-[30rem] bg-cover bg-center self-center duration-300' style={{ backgroundImage: `url(${Images[currentImage]})` }} >
       <div className='flex justify-center flex-col gap-y-2 text-center'>
-        <img src="src/assets/logo.png" className='h-20 w-20 box-border self-center' alt="Server Logo" />
+        <img src={Logo} className='h-20 w-20 box-border self-center' alt="Server Logo" />
         <div className='text-center text-white mx-[30%]'>
             <p>Stedet hvor fantasier bliver til virkelighed, og hvor fællesskabet er i fokus. Vi er i fuld gang
             med at skabe en unik RP-oplevelse, og vi glæder os til at dele den med dig! 🚀</p>
